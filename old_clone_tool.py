@@ -1,4 +1,8 @@
-#!/usr/bin/env python3
+# ---------------------------------------------
+# Educational Demo Script — Old Clone Tool (Safe)
+# Author: AYAAZ KHAN
+# GitHub: https://github.com/alexayaazkhan78/Zahirxox
+# ---------------------------------------------#!/usr/bin/env python3
 import time
 import random
 
